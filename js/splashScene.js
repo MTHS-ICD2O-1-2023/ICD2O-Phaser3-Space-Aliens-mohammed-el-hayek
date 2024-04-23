@@ -1,8 +1,8 @@
 /* global Phaser */
-//copyright (c) 2023 Osamah Hasan All right reserved
+//copyright (c) 2024 Mohammed All right reserved
 //
-//Created by: Osamah Hasan
-//Created on: Apr 2023
+//Created by: Mohammed
+//Created on: Apr 2024
 //This is the Splash Scene
 
 /**
