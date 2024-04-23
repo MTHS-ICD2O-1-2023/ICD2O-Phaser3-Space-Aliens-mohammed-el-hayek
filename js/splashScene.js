@@ -5,7 +5,6 @@
 //Created on: Apr 2023
 //This is the Splash Scene
 
-
 /**
 * This class is the Splasch Scene.
 */
@@ -17,7 +16,6 @@ class SplashScene extends Phaser.Scene {
     super({ key: "splashScene" })
   }
 
-
   /**
    * Can be defind on your own Scenes.
    * This methed is called by the Scene Manager when the scene start,
@@ -28,7 +26,6 @@ class SplashScene extends Phaser.Scene {
     this.cameras.main.setBackgroundColor("ffffff")
   }
 
-
 /**
  * Can be defined on your own Scenes.
  * Use it to load assets.
@@ -36,7 +33,6 @@ class SplashScene extends Phaser.Scene {
   preload() {
     console.log("Splash Scene")
   }
-
 
   /**
    * Can be defined on your own Scenes.
@@ -46,7 +42,6 @@ class SplashScene extends Phaser.Scene {
   create(data) {
     // pass
   }
-
 
   /**
    * Should be overriddem by your own Scenes.
